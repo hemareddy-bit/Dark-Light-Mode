@@ -12,7 +12,7 @@ This project demonstrates a Dark Mode/Light Mode toggle built using React. It is
 - CSS for styling
 
 1. Clone the repository:
-   git clone https://github.com/your-username/mode-change.git
+   git clone (https://github.com/hemareddy-bit/Dark-Light-Mode)
 
 2. Navigate to the project directory:
    cd mode-change
